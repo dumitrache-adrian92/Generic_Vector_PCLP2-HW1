@@ -5,6 +5,7 @@ Types of ints that can be stored:
 - type 1 = 2 int8_t
 - type 2 = int16_t and int32_t
 - type 3 = 2 int32_t
+
 Usage:
 - to append an element: insert type string1 int1 int2 string2
 - to add at a certain index: insert_at index type string1 int1 int2 string2
