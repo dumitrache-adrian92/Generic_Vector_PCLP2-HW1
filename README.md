@@ -12,4 +12,4 @@ Usage:
 - to remove an element found at a certain index: delete_at index
 - to print an element found at a certain index: find index
 - to print all elements: print
-- stop the program: quit
+- stop the program: exit
